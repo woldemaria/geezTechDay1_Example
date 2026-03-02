@@ -27,10 +27,14 @@
             "id": "f7fdbc47c07e2299",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Day1_introduction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Day1_introduction"
             }
           }
         ]
@@ -192,11 +196,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "f7fdbc47c07e2299",
+  "active": "bed09f2c81161171",
   "lastOpenFiles": [
+    "Day1_introduction.md",
+    "Untitled",
+    "Untitled 1.canvas",
+    "2026-03-02.md",
     "Untitled.canvas",
     "Untitled.base",
-    "Day1_introduction.md",
     "ReadMe.md"
   ]
 }
